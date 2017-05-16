@@ -1,0 +1,10 @@
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\bin\Debug\Laba12.exe.config
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\bin\Debug\Laba12.exe
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\bin\Debug\Laba12.pdb
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\bin\Debug\EntityFramework.dll
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\bin\Debug\EntityFramework.SqlServer.dll
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\bin\Debug\EntityFramework.xml
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\bin\Debug\EntityFramework.SqlServer.xml
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\obj\Debug\Laba12.csprojResolveAssemblyReference.cache
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\obj\Debug\Laba12.exe
+D:\Univer\4 семестр\С#\Labs\Laba12\Laba12\obj\Debug\Laba12.pdb
